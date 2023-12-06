@@ -1,0 +1,4 @@
+#This file contains the list of contributors for this project.
+
+Gabriel Effangha <gabrielnoah129@gmail.com>.
+Oluwasemilore Ogunleye <ogunleyesemilore2@gmail.com>.
